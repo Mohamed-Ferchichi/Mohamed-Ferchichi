@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mohamed Ferchichi 👋
 
-<!--
-**Mohamed-Ferchichi/Mohamed-Ferchichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer engineering student at **ISI El Kef** (University of Jendouba), Tunisia 🇹🇳
 
-Here are some ideas to get you started:
+I'm working toward becoming a **full stack developer**, and I'm building my skills one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm learning
+- **At university:** C++
+- **On my own:** HTML, CSS, JavaScript, Git
+- **Coming next:** React, SQL, Java and Spring Boot
+
+## 🎯 My goals
+- Build and publish my first projects here on GitHub
+- Find an internship during my studies
+- Grow into a full stack developer
+
+## 📂 Projects
+Coming soon. My first projects will appear here as I finish them.
+
+## 📫 Contact
+- LinkedIn: [Mohamed Ferchichi](https://www.linkedin.com/in/mohamed-ferchichi-3b5b39441/)
